@@ -1,0 +1,4 @@
+Following are the statistics :
+#1 of records received.
+#5491 of records processed. 
+#511 of records failed.
